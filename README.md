@@ -1,4 +1,4 @@
-# [Shopp Dogg](https://zzanetti.github.io/ShopDogg/)
+# [Shop Dogg](https://zzanetti.github.io/ShopDogg/)
 
 This repository contains all the files needed to host the website for a small business. 
 The website has the following features:
