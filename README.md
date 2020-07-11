@@ -1,10 +1,10 @@
-# [Shopp Dogg](https://zzanetti.github.io/ShopDogg/) - [Simple Small Business Website]
+# [Shopp Dogg](https://zzanetti.github.io/ShopDogg/)
 
 This repository contains all the files needed to host the website for a small business. 
 The website has the following features:
-*Overview of Company Products, Services, and About Us
-*Individual Product Pages
-*A functional Contact Me page refactored from the Bootstrap template
+* Overview of Company Products, Services, and About Us
+* Individual Product Pages
+* A functional Contact Me page refactored from the Bootstrap template
 
 ## Getting Started
 
