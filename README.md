@@ -1,27 +1,29 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Modern Business](http://startbootstrap.com/template-overviews/modern-business/)
+# [Shopp Dogg](https://zzanetti.github.io/ShopDogg/) - [Simple Small Business Website]
 
-[Modern Business](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
+This repository contains all the files needed to host the website for a small business. 
+The website has the following features:
+*Overview of Company Products, Services, and About Us
+*Individual Product Pages
+*A functional Contact Me page refactored from the Bootstrap template
 
 ## Getting Started
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/modern-business/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-modern-business.git`
-* Fork the repo
+To access the site use the following link: https://zzanetti.github.io/ShopDogg/
+
+## Coming Soon...
+
+Currently working on adding responsiveness to product selection in terms of image display for the wine rack. User should select a size and only see images for that size.
+
+Also working on integrating a freedb for which items are in stock, and create a generic product page that boots all info from the db, i.e. name, description, options, photos. 
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-modern-business/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/modern-business/).
+Have a bug or an issue with this page? Please report at: https://github.com/ZZanetti/ShopDogg/issues
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+This website was created by Zach Zanetti as a strictly for fun project for a friend. It was built using a template directly from Bootstrap with some added HTML, CSS, PHP, JQuery, and JS. 
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
+## Copyright and License (Bootstrap Template Only)
 
 Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-modern-business/blob/gh-pages/LICENSE) license.
